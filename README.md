@@ -1,15 +1,19 @@
-# ✈️ Sistema para Agência de Viagens - uc 06 SENAC
+# ✈️ Sistema para Agência de Viagens - Módulo Java OO
 
 Este projeto consiste no desenvolvimento do módulo backend (em formato console) de um sistema para uma agência de viagens, aplicando os conceitos fundamentais da **Programação Orientada a Objetos (POO)** em Java.
 
-Resultado: Nota Máxima (A) obtida nesta atividade prática.
+🎯 **Resultado:** Nota Máxima (A) obtida nesta atividade prática.
 
-## Contexto do Projeto
+---
+
+## 📝 Contexto do Projeto
 A proposta deste sistema é gerenciar o registro de pacotes de viagens e o controle de dados de vendas. 
-* Um Pacote de Viagem é composto por um meio de transporte e uma hospedagem, além de um destino e quantidade de dias.
-* A Venda consolida os dados do cliente, a forma de pagamento e o pacote adquirido, sendo capaz de lidar com conversões de moedas (Dólar para Real).
+* Um **Pacote de Viagem** é composto por um meio de transporte e uma hospedagem, além de um destino e quantidade de dias.
+* A **Venda** consolida os dados do cliente, a forma de pagamento e o pacote adquirido, sendo capaz de lidar com conversões de moedas (Dólar para Real).
 
-## Regras de Negócio e Funcionalidades Implementadas
+---
+
+## 🛠️ Regras de Negócio e Funcionalidades Implementadas
 
 O sistema foi estruturado através das seguintes classes e responsabilidades:
 
@@ -25,6 +29,7 @@ O sistema foi estruturado através das seguintes classes e responsabilidades:
    * Exibe o resumo financeiro da venda nas duas moedas.
 5. **`Classe Principal (Main)`**: Gerencia a interação em modo console, permitindo a entrada de dados pelo usuário, o cadastro completo da venda e a exibição organizada do relatório final.
 
+---
 
 ## 💻 Conceitos Praticados
 * Encapsulamento e visibilidade de atributos
